@@ -1,0 +1,29 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "This is a command line based RPG.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sean-Sanneman/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "another",
+    "RPG",
+    "Sean",
+    "Sanneman"
+  ],
+  "author": "Sean Sanneman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sean-Sanneman/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Sean-Sanneman/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
